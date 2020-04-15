@@ -1,0 +1,10 @@
+.button
+{
+	width: 62%;
+	height: 2.5em;
+	border-radius: 22px;
+	margin: auto;
+	background-color: rgba(72, 241, 233, 0.815);
+	border: none;
+	vertical-align: bottom;
+}
