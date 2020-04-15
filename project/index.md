@@ -2,7 +2,7 @@
 ## 目录
 
 
-### [Mathematica](./Mathematica/all.md)
+### [Mathematica](./Mathematica/index.md)
 (Mathematica相关项目，版本12.1)  
 <br><br><br>  
 
