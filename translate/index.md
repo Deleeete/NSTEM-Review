@@ -14,6 +14,11 @@
 ### [基本思想纲要：新科学之基础(二)](./ANewKindOfScience/0003.md)
 <br><br><br> 
 
+### [基本思想纲要：新科学之基础(三)](./ANewKindOfScience/0004.md)
+<br><br><br> 
+
+### [与其他学科的关系(一)](./ANewKindOfScience/0005.md)
+<br><br><br> 
 <hr>
 
 ### [首页](../index.md)
