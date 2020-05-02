@@ -1,6 +1,6 @@
 # 主页
 
-## [A New Kind of Science](./translate/ANewKindOfScience/0000.md)
+## [A New Kind of Science](./translate/)
 持续翻译中
 <br><br><br> 
    
