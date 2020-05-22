@@ -1,23 +1,12 @@
 # 翻译
 ## 目录
 
-
-### [翻译之前的逼逼](./ANewKindOfScience/0000.md)
+### [A New Kind of Science](./ANewKindOfScience/)
+《一种新科学》
 <br><br><br>  
 
-### [前言](./ANewKindOfScience/0001.md)
-<br><br><br> 
-
-### [基本思想纲要：新科学之基础(一)](./ANewKindOfScience/0002.md)
-<br><br><br> 
-
-### [基本思想纲要：新科学之基础(二)](./ANewKindOfScience/0003.md)
-<br><br><br> 
-
-### [基本思想纲要：新科学之基础(三)](./ANewKindOfScience/0004.md)
-<br><br><br> 
-
-### [与其他学科的关系(一)](./ANewKindOfScience/0005.md)
+### [Finally We May Have a Path to the Fundamental Theory of Physics…](./404.md)
+and It’s Beautiful
 <br><br><br> 
 <hr>
 
