@@ -5,7 +5,7 @@
 《一种新科学》
 <br><br><br>  
 
-### [Finally We May Have a Path to the Fundamental Theory of Physics…](./404.md)
+### [Finally We May Have a Path to the Fundamental Theory of Physics…](./0000.md)
 and It’s Beautiful
 <br><br><br> 
 <hr>

@@ -9,10 +9,6 @@
 (Mathematica相关项目，版本12.1)  
 <br><br><br>  
 
-; ### [XS Script](./XS/index.md)
-; (🐻语言——从零开始)  
-; <br><br><br>  
-
 <hr>
 
 ### [首页](../index.html)
